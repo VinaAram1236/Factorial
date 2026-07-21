@@ -53,9 +53,5 @@ class Program
         Console.WriteLine(number + "! = " + factorial);
         Console.WriteLine();
         Console.WriteLine("The factorial of " + number + " is " + factorial + ".");
-
-        Console.WriteLine();
-        Console.WriteLine("Press any key to exit...");
-        Console.ReadKey();
     }
 }
